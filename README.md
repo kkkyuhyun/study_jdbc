@@ -6,4 +6,4 @@
 
 ## Introduction
 
-JDBC(Java Database Connectivity)는 자바에서 데이터베이스와의 연결을 관리하는 API입니다. 이 저장소에서는 JDBC의 기본적인 요소를 차례대로 설명하고, JAVA와 데이터베이스 연결하는 원리를 이해합니다.
+JDBC(Java Database Connectivity)는 자바에서 데이터베이스와의 연결하는 방법을 배웠습니다. 이 저장소에서는 JDBC의 기본적인 요소를 차례대로 설명하고, JAVA와 데이터베이스 연결하는 원리를 이해합니다.
